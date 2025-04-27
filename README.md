@@ -4,10 +4,10 @@
 
 - <b>Microsoft Azure</b>
   - [Creating Virtual Machines in the Cloud](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - <b>Active Directory</b>
-  - [Preparting AD Infrastructure in Azure](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Preparing AD Infrastructure in Azure](https://github.com/joshmadakorcc/azure-network-protocols)
   - [Deploying AD](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Creating Users With PowerShell] ()
   - [Configuring Account Lockout Policy in AD using Group Policy](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
