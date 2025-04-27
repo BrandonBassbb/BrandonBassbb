@@ -3,12 +3,12 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machines in the Cloud](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Creating Virtual Machines in the Cloud](https://github.com/BrandonBassbb/Creating-Virtual-Machines)
 - <b>Active Directory</b>
-  - [Preparing AD Infrastructure in Azure](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Deploying AD](https://github.com/joshmadakorcc/azure-network-protocols)
-  - [Creating Users With PowerShell] ()
-  - [Configuring Account Lockout Policy in AD using Group Policy](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [Preparing AD Infrastructure in Azure](https://github.com/BrandonBassbb/Preparing_AD_Infrastucture)
+  - [Deploying AD](https://github.com/BrandonBassbb/Deploying_AD)
+  - [Creating Users With PowerShell](https://github.com/BrandonBassbb/Creating_Users)
+  - [Configuring Account Lockout Policy in AD using Group Policy](https://github.com/BrandonBassbb/Group_Policy)
 
 <h2>🤳Connect with me:</h2>
 
