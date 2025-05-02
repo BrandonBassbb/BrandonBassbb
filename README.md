@@ -7,8 +7,7 @@
 - <b>Active Directory</b>
   - [Preparing AD Infrastructure in Azure](https://github.com/BrandonBassbb/Preparing_AD_Infrastucture)
   - [Deploying AD](https://github.com/BrandonBassbb/Deploying_AD)
-  - [Creating Users With PowerShell](https://github.com/BrandonBassbb/Creating_Users)
-  - [Configuring Account Lockout Policy in AD using Group Policy](https://github.com/BrandonBassbb/Group_Policy)
+  - [Creating And Mangaing Users](https://github.com/BrandonBassbb/Creating_Users)
 
 <h2>🤳Connect with me:</h2>
 
